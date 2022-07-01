@@ -1,0 +1,93 @@
+.raula {
+  background-color: rgba(2, 66, 140, 0.2);
+}
+.card1 {
+  margin-top: 100px;
+  width: 900px;
+  margin-left: 300px;
+  background-color: #e6ecf4;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 10px 10px 10px 10px;
+}
+.form-group input {
+  font-family: "Helvetica";
+  text-align: left;
+  display: block;
+
+  width: 250px;
+
+  padding: 10px;
+  border: 2px solid white;
+  margin: 11px auto;
+  font-size: 25px;
+  border-radius: 8px;
+}
+
+.ghj input {
+  width: 700px;
+}
+.ui {
+  overflow-x: auto;
+}
+table {
+  border: 2px solid;
+  width: 600px;
+}
+
+th,
+td {
+  border: 2px solid;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.io input {
+  width: 30px;
+  height: 20px;
+  font-size: 15px;
+  margin-left: 0px;
+  box-shadow: none;
+}
+.ux {
+  width: 800px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.ert {
+  position: relative;
+  top: 30px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  width: 700px;
+  height: 50px;
+  text-align: left;
+  background-color: #e6ecf4;
+  padding: 10px;
+  border: 2px solid white;
+  margin: 11px auto;
+  font-family: Roboto, sans-serif;
+  border-radius: 8px;
+}
+.row1 {
+  margin: 10px 10px;
+  display: inline-block;
+}
+.row2 {
+  margin: 10px 10px;
+  display: inline-block;
+}
+.jk {
+  background-color: #02428c;
+  color: #ffffff;
+  font-size: 1.2rem;
+  border-radius: 0.5rem;
+  border: none;
+  height: 5vh;
+  padding: 0.3rem;
+  margin-top: 10px;
+  margin-left: 350px;
+  width: 12vw;
+}

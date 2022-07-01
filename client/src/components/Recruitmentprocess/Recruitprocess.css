@@ -1,0 +1,151 @@
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 1520px;
+  height: 50px;
+  background-color: #00a087;
+}
+.lef5 {
+  overflow: hidden;
+
+  display: flex;
+  background-color: rgba(2, 66, 140);
+  height: 74px;
+}
+.midi {
+  position: absolute;
+  display: inline-flex;
+
+  width: 50%;
+  height: 74px;
+  top: 0px;
+  margin-left: 870px;
+  margin-top: 0px;
+}
+.butt3 {
+  background-color: rgba(2, 66, 140);
+  border: none;
+  color: white;
+  padding: 20px 34px;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#iut4 {
+  color: white;
+  position: absolute;
+  width: 250px;
+  height: 23px;
+  left: 210px;
+  margin-top: 32px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.left img {
+  width: 50px;
+  height: 50px;
+  margin-left: 16px;
+}
+#close {
+  width: 200px;
+}
+#close img {
+  display: inline-block;
+  height: 18px;
+  width: 18px;
+}
+#ops {
+  position: absolute;
+  width: 51px;
+  height: 54px;
+  left: 130px;
+  margin-top: 9px;
+}
+
+.vector {
+  position: absolute;
+  left: 510px;
+  top: 100px;
+  width: 500px;
+  height: 425px;
+}
+.grid-container11 {
+  display: grid;
+  gap: 10px 50px;
+  grid-template-columns: auto;
+  width: 300px;
+  margin-top: 140px;
+  margin-left:150px;
+  padding: 0px;
+}
+
+.grid-item7 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid white;
+  border-style: inset;
+
+  border-radius: 5px;
+  /* padding: 40px; */
+  font-size: 15px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1.2rem;
+}
+.grid-rec {
+  position: absolute;
+  top: 133px;
+  margin-left: 1030px;
+  display: grid;
+  gap: 10px 50px;
+  grid-template-columns: auto;
+  width: 333px;
+  padding: 0px;
+}
+.first {
+  display: inline;
+}
+.grid-rec2 {
+  position: absolute;
+  top: 513px;
+  margin-left: 560px;
+  display: grid;
+  gap: 10px 50px;
+  grid-template-columns: auto;
+  width: 350px;
+  padding: 0px;
+}
+.vector1 {
+  position: absolute;
+  top: 1050px;
+  width: 1512px;
+}
+.desp {
+  position: relative;
+  width: 41px;
+  height: 128px;
+  margin: "0 1.5rem 0 0";
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100px;
+  font-size: 70px;
+  line-height: 182.6%;
+  margin: 0 0.5rem 0 0;
+  color: #274489;
+  text-align: left;
+}
+
+.des1 {
+  font-size: 45px;
+  margin: 2rem 0.9rem 0 0;
+}
